@@ -6,7 +6,7 @@ const experiences = [
   {
     company: "Georgia Institute of Technology, VGDev",
     role: "Game Developer",
-    period: "August 2023 — May 2025",
+    period: "August 2022 — May 2025",
     description: "Contributed to the development of 4+ Unity projects using C# and Git, collaborating with teams of 30+ artists, UI designers, and programmers. Structured and implemented UI element animations in C# for menu interfaces and health indicators, enhancing player experience and immersion. Designed and integrated 3D background assets in Blender, enriching level design for narrative storytelling and worldbuilding. Projects were showcased as playable demos at DreamHack Atlanta, engaging 500+ players in live playtesting.",
     highlights: ["Unity", "C#", "Blender", "Git"],
   },

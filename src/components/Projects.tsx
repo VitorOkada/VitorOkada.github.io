@@ -4,8 +4,16 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
+    name: "Ricochet Run",
+    description: "I worked on Ricochet Run in Unity and C#, focusing on enemy AI, menu UI, and the 3D hub world. I implemented bird enemy AI in C# with player targeting so they fly around the level, lock onto the player, and fire projectiles. I also built the UI for the level selection and weapon selection menus. I modeled the entire hub world in Blender, creating the stone gates, stone brick pathways, and wooden platforms myself and using premade bush and flower models for the vegetation.",
+    tech: ["Unity", "C#", "Blender", "Game Design"],
+    link: "#",
+    github: "#",
+    video: "/images/projects/NorthAveStudios_RicochetRun_Trailer.mp4",
+  },
+  {
     name: "Gun Game",
-    description: "I created a Gun Game mode in UEFN Fornite where players cycle through different weapons as they get kills. I used Direct Event Binding to connect Elimination Managers with Item Granters so each player would instantly swap weapons after getting a kill. To create the game loop, I used devices like the End Game and Score Manager.",
+    description: "I created a Gun Game mode in UEFN Fortnite where players cycle through different weapons as they get kills. I used Direct Event Binding to connect Elimination Managers with Item Granters so each player would instantly swap weapons after getting a kill. To create the game loop, I used devices like the End Game and Score Manager.",
     tech: ["UEFN", "Unreal Engine", "Game Design"],
     link: "#",
     github: "#",
